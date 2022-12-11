@@ -1,0 +1,20 @@
+.hell{
+  margin-top: 50px;
+}
+
+.follow a{
+  margin-top: 50px;
+  padding: 20px;
+  color: #000000;
+}
+@media screen and (max-width:768px){
+  .hell{
+    margin-top: 50px;
+  }
+
+  .follow a{
+    margin-top: 50px;
+    padding: 40px;
+    color: #000000;
+  }
+}

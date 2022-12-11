@@ -1,0 +1,35 @@
+
+.box{
+  margin-top: 30px;
+  background-color: #ffffff;
+  padding: 10px 20px;
+}
+
+h1{
+  color: rgb(57, 76, 245);
+}
+
+
+.course{
+background-color: #eff;
+padding: 50px 100px;
+}
+
+@media screen and (max-width:600px){
+  .box{
+    margin-top: 30px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+  }
+
+  h1{
+    color: rgb(57, 76, 245);
+  }
+
+
+  .course{
+  background-color: #eff;
+  padding: 50px 100px;
+  }
+}
+
